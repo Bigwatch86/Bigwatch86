@@ -14,8 +14,14 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bigwatch86)](https://github.com/Bigwatch86/github-readme-stats)
 
 
-## Дипломный проект
+# Дипломный проект
 Реализован во время обучения в Школе инженеров по автоматизации тестирования.
 
 ### :desktop_computer:	Тестирование UI
 В <a target="_blank" href="https://github.com/Bigwatch86/thesis-project-UI">этой части</a> дипломного проекта: реализованы автотесты UI на проверку элементов главной страницы интернет-магазина "Ситиилнк", а также поиск товара в каталоге.</br></br>
+
+### :abacus:	Тестирование API
+В <a target="_blank" href="https://github.com/Bigwatch86/thesis-project-API">этой части</a> дипломного проекта: реализованы автотесты API.</br></br>
+
+### :phone:	Тестирование mobile
+В <a target="_blank" href="https://github.com/Bigwatch86/thesis-project-mobile">этой части</a> дипломного проекта: реализованы автотесты для мобильных устройств.</br></br>
