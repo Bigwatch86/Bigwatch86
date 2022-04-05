@@ -6,7 +6,7 @@
    <tr> 
     <td width="30%" valign="bottom"><img title="SUAI" src="images/logo/guap.png"></td><td valign="middle">Санкт-Петербургский государственный университет аэрокосмического приборостроения.</br>Факультет вычислительных систем и программирования.</br>Инженер.</td></tr>
     <tr><td width="30%" valign="bottom"><img title="POINT" src="/images/logo/point.png"></td><td valign="middle">Первый Онлайн Институт Тестировщиков.</br></td>
-    <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа автоматизации тестирования <a target="_blank" href="https://qa.guru"><img src="/images/qa-guru80.png"></a>.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа автоматизации тестирования.</td></tr>
    </tr>
   </table>
   </br>
