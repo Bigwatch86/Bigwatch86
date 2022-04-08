@@ -24,4 +24,4 @@
 В <a target="_blank" href="https://github.com/Bigwatch86/thesis-project-API">этой части</a> дипломного проекта реализованы автотесты API для сайта restful-booker.</br></br>
 
 ### :phone:	Тестирование mobile
-В <a target="_blank" href="https://github.com/Bigwatch86/thesis-project-mobile">этой части</a> дипломного проекта реализованы автотесты для мобильных устройств.</br></br>
+В <a target="_blank" href="https://github.com/Bigwatch86/thesis-project-mobile">этой части</a> дипломного проекта реализованы автотесты для мобильного приложения Wikipedia.</br></br>
