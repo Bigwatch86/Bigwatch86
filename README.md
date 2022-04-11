@@ -1,7 +1,7 @@
 ### Привет!
 
 ### Меня зовут Игорь.
-<a target="_blank" href="https://t.me/Bigwatch"><img title="Связь со мной" src="images/logo/Telegram.svg" height="20" width="20"> :point_left:	###Связь со мной.
+<a target="_blank" href="https://t.me/Bigwatch"><img title="Связь со мной" src="images/logo/Telegram.svg" height="20" width="20"> :point_left:	Связь со мной.
 ### Немного обо мне:
 
 <table width="100%" border='0'>
